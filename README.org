@@ -1,0 +1,9 @@
+#+title: MSPRAC archive
+
+This is an archive for MS Paint Refutations of Anarcho-Capitalism (MSPRAC)
+
+* TODO [0/2]
++ [ ] remove duplicate images
+  + could be done by renaming all images to their hash, then duplicates become obvious
++ [ ] add alt text for easy searching
+  + one way to do this is with a database (JSON file or otherwise), or just adding the alttext descriptors to the filenames
